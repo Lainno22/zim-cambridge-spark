@@ -24,7 +24,7 @@ const menuItems = [
   {
     title: "Dashboard",
     icon: Home,
-    url: "/",
+    url: "/dashboard",
   },
   {
     title: "Virtual Classroom",

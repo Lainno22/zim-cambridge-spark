@@ -4,7 +4,7 @@ import { ProgressOverview } from "@/components/dashboard/ProgressOverview";
 import { RecentActivity } from "@/components/dashboard/RecentActivity";
 import { UpcomingSchedule } from "@/components/dashboard/UpcomingSchedule";
 
-const Index = () => {
+const Dashboard = () => {
   return (
     <AppLayout>
       <div className="space-y-6">
@@ -31,4 +31,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default Dashboard;
